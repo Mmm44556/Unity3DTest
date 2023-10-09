@@ -4,7 +4,7 @@ using System.Threading;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Test : MonoBehaviour
+public class CamFollow : MonoBehaviour
 {
     private float mouseX, mouseY;
     public float moustSense;
